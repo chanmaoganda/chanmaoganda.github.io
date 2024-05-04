@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Avania Wang
 language: en
 timezone: ''
 
@@ -22,7 +22,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -100,5 +100,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+# deploy:
+  # type: ''
